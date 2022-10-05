@@ -1,0 +1,1 @@
+# jest-mock-es6-class
